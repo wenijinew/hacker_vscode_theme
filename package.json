@@ -17,5 +17,9 @@
         "path": "./themes/Hacker Dark Theme-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenijinew/hacker_vscode_theme.git"
   }
 }
